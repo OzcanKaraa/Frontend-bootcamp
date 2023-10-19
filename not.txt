@@ -1,2 +1,4 @@
 2 esıtlık deger karsılastıtırırken 
 3 esıtte hem deger hem tıp karsılastırılır
+
+node index.js
